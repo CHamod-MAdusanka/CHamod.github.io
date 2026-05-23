@@ -65,7 +65,7 @@ params:
             - name: Data
               url: data/
             - name: Books
-              url: books/
+              url: https://libread.com/libread/battle-through-the-heavens-novel-264870
             - name: Courses
               url: courses/
             - name: Tags
@@ -86,14 +86,14 @@ params:
           url: 
         - name: 
           url: 
-        - name:
-          url: 
-        - name:
-          url: 
-        - name: YouTube
+        - name: youtube
           url: https://www.youtube.com/watch?v=gSgyw2-WchI&list=PLwJAwkKCGfFNY-9gOwREI6-ZEisdx8KP9
+        - name:
+          url: 
+        - name:
+          url: 
         - name: Lib Read
-          url: https://libread.com/libread/battle-through-the-heavens-novel-264870
+          url: 
         - name: 
           url: 
         - name: 
