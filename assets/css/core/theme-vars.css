@@ -6,18 +6,18 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --gray: rgb(165, 165, 165);
-    --content: rgb(30, 30, 30);
-    --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --darkcolor: #6a7ba2;
-    --lightcolor: #cbd1de;
+    --theme: rgb(114, 12, 209);
+    --entry: rgb(42, 40, 175);
+    --primary: rgb(37, 15, 160);
+    --secondary: rgb(103, 92, 143);
+    --tertiary: rgb(41, 14, 160);
+    --gray: rgb(51, 45, 128);
+    --content: rgb(77, 23, 148);
+    --code-block-bg: rgb(15, 37, 124);
+    --code-bg: rgb(47, 15, 136);
+    --border: rgb(89, 51, 192);
+    --darkcolor: #5c709e;
+    --lightcolor: #0a245a;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -31,15 +31,15 @@
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
+    --theme: rgb(19, 59, 139);
+    --entry: rgb(8, 8, 95);
+    --primary: rgb(12, 12, 170);
+    --secondary: rgb(26, 55, 83);
     --tertiary: rgb(38, 80, 165);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(80, 83, 99);
-    --border: rgb(51, 51, 51);
+    --content: rgb(28, 28, 194);
+    --code-block-bg: rgb(15, 15, 189);
+    --code-bg: rgb(11, 30, 139);
+    --border: rgb(100, 60, 175);
 }
 
 .list {
