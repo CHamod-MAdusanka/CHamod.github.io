@@ -6,18 +6,18 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgb(114, 12, 209);
-    --entry: rgb(42, 40, 175);
+    --theme: rgb(214, 209, 219);
+    --entry: rgb(97, 97, 99);
     --primary: rgb(37, 15, 160);
     --secondary: rgb(103, 92, 143);
-    --tertiary: rgb(41, 14, 160);
-    --gray: rgb(51, 45, 128);
+    --tertiary: rgb(40, 40, 43);
+    --gray: rgb(137, 137, 141);
     --content: rgb(77, 23, 148);
     --code-block-bg: rgb(15, 37, 124);
     --code-bg: rgb(47, 15, 136);
     --border: rgb(89, 51, 192);
     --darkcolor: #5c709e;
-    --lightcolor: #0a245a;
+    --lightcolor: #898c92;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -31,15 +31,15 @@
 }
 
 .dark {
-    --theme: rgb(19, 59, 139);
-    --entry: rgb(8, 8, 95);
-    --primary: rgb(12, 12, 170);
-    --secondary: rgb(26, 55, 83);
-    --tertiary: rgb(38, 80, 165);
-    --content: rgb(28, 28, 194);
-    --code-block-bg: rgb(15, 15, 189);
-    --code-bg: rgb(11, 30, 139);
-    --border: rgb(100, 60, 175);
+    --theme: rgb(146, 148, 153);
+    --entry: rgb(160, 160, 167);
+    --primary: rgb(118, 118, 129);
+    --secondary: rgb(135, 137, 139);
+    --tertiary: rgb(44, 45, 48);
+    --content: rgb(10, 10, 14);
+    --code-block-bg: rgb(18, 18, 20);
+    --code-bg: rgb(27, 28, 32);
+    --border: rgb(23, 22, 26);
 }
 
 .list {
