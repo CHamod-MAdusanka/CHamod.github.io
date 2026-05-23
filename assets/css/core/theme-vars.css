@@ -49,3 +49,12 @@
 .dark.list {
     background: var(--theme);
 }
+
+body {
+    
+    background-image: url('BTTH2.jpeg') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+}
