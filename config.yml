@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Battle Through the Heavens
           subtitle: "Battle Through the Heavens (Doupo Cangqiong) is an immensely popular Chinese fantasy (Xuanhuan) novel originally written by Tian Can Tu Dou (Heavenly Silkworm Potato) in 2009, which was later adapted into a manga-style comic (Manhua) by Zhou Hong and a high-quality 3D animated series (Donghua) produced by Motion Magic. The story follows the journey of Xiao Yan, a talented young man who suddenly loses his cultivation powers and faces societal disgrace, only to embark on a relentless quest to regain his strength, restore his family's honor, and ultimately become the most powerful cultivator in a world where magic and martial arts intertwine through intense combat, strategic growth, and complex emotional trials."
-          imageUrl: "picture.jpeg"
+          imageUrl: "images.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
